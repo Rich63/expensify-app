@@ -2,13 +2,7 @@ import * as firebase from 'firebase'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyADoenx7216OqVsQoiiAtTlA7f5lYko0o4",
-  authDomain: "expensify-9cc9e.firebaseapp.com",
-  databaseURL: "https://expensify-9cc9e.firebaseio.com",
-  projectId: "expensify-9cc9e",
-  storageBucket: "expensify-9cc9e.appspot.com",
-  messagingSenderId: "574347211331",
-  appId: "1:574347211331:web:f69f77a9ca7402c4d09af6"
+
 };
 
 // Initialize Firebase
