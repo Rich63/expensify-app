@@ -2,7 +2,11 @@ import * as firebase from 'firebase'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 91ef468c0dd1d3478238c07e3f5fd2def3a464c6
 };
 
 // Initialize Firebase
